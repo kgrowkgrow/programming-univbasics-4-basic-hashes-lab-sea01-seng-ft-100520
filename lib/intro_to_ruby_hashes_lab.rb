@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash1 = {
+  {
     :boss => "Bruce Springsteen"
   }
 end
